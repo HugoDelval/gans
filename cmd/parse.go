@@ -5,7 +5,6 @@ import (
 	"errors"
 	"fmt"
 	"github.com/codegangsta/cli"
-	_ "github.com/go-sql-driver/mysql"
 	"github.com/restanrm/gans/nmap"
 	"log"
 	//"net"
