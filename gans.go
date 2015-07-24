@@ -4,7 +4,7 @@ package main
 
 import (
 	"github.com/codegangsta/cli"
-	"github.com/restanrm/gans/cmd"
+	"github.com/HugoDelval/gans/cmd"
 	"os"
 )
 
